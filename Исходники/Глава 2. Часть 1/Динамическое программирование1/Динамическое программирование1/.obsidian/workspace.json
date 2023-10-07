@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "0b14a3477ed43998",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe5d2d16b6455a2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17607460d4168a26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "На отрезках/40. Казино/40. Казино.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45d8996553683519",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8eb278ad1885d27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49120735424255db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "599d36330341eb74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a280c722558f58a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04d36a2857997d33",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfbd0b67cd23e0c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ceae927bdad2dee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "На отрезках/40. Казино/40. Казино.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ef61f8682a27a3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "На отрезках/40. Казино/40. Казино.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a225c43af96b392a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfce765aa4f67153",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "На отрезках/40. Казино/40. Казино.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "49120735424255db",
+  "lastOpenFiles": [
+    "На играх/44. Вероятностные игровые стратегии и обратная индукция",
+    "На отрезках/35. Дамерау-Левенштейн + цена/35. Дамерау-Левенштейн + цена.md",
+    "На играх/43. Игра в монетки/43. Игра в монетки.md",
+    "На играх/42. Игра в спички/42. Игра в спички.md",
+    "На отрезках/41. Наибольшая общая подпоследовательность/41. Наибольшая общая подпоследовательность.md",
+    "На отрезках/40. Казино/40. Казино.md",
+    "На отрезках/39. Минимальное число удалений/39. Минимальное число удалений.md",
+    "На отрезках/38. Последовательность/38. Последовательность.md",
+    "На отрезках/37. Длинный палиндром/37. Длинный палиндром.md",
+    "На отрезках/36. Палиндром/36. Палиндром.md",
+    "На отрезках/34. Расстояние Дамерау — Левенштейна/34. Расстояние Дамерау — Левенштейна.md",
+    "На отрезках/33. Классический Левенштейн/33. Классический Левенштейн.md",
+    "На отрезках/32. Простой Левенштейн/32. Простой Левенштейн.md",
+    "Табличный метод/31. Простая сумма/31. Простая сумма.md",
+    "Табличный метод/30. Разложение на слагаемые/30. Разложение на слагаемые.md",
+    "Табличный метод/29. Наибольший квадрат/29. Наибольший квадрат.md",
+    "Табличный метод/28. Макс. сумма меньше М/28. Макс. сумма меньше М.md",
+    "Табличный метод/27. LIP/27. LIP.md",
+    "Табличный метод/26. Без двух единиц подряд/26. Без двух единиц подряд.md",
+    "Табличный метод/25. Бином Ньютона за линию/25. Бином Ньютона за линию.md",
+    "Табличный метод/24. Бином Ньютона. Формула/24. Бином Ньютона. Формула.md",
+    "Табличный метод/23. Бином Ньютона. ДП/23. Бином Ньютона. ДП.md",
+    "Табличный метод/22. Задача Дейкстры/22. Задача Дейкстры.md",
+    "Табличный метод/21. Зоомагазин/21. Зоомагазин.md",
+    "Табличный метод/20. Черепашка и заданные шаги/20. Черепашка и заданные шаги.md",
+    "Табличный метод/19. Черепашка и шаги кратные k/19. Черепашка и шаги кратные k.md"
+  ]
+}

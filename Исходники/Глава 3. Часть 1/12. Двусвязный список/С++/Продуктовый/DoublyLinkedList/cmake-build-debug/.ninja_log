@@ -1,0 +1,16 @@
+# ninja log v5
+1	5517	7034663253725258	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	f2933b36fb2b0085
+2	1312	7034663211805391	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	630b1824691221a0
+1330	4317	7034725878362399	tests.exe	94bd51817b6e88b4
+3	1330	7034725848522399	CMakeFiles/tests.dir/test/DoublyLinkedListTest.cpp.obj	a0b83182a2f0998a
+4	2230	7034664913937372	lib/libgtest.a	1d44d5ca10107ef2
+2231	2258	7034664914217373	lib/libgtest_main.a	be38257b31fd016c
+1	1254	7035540063093319	build.ninja	897518583a508487
+0	691	7035541023395913	CMakeFiles/DoublyLinkedList.dir/src/main.cpp.obj	1b8cb17fc013818c
+692	1266	7035541029134669	DoublyLinkedList.exe	fd1dd54d6a6a242a
+1	511	7035544625574246	CMakeFiles/DoublyLinkedList.dir/src/main.cpp.obj	1b8cb17fc013818c
+511	596	7035544626404200	DoublyLinkedList.exe	fd1dd54d6a6a242a
+2	452	7035546259124912	CMakeFiles/DoublyLinkedList.dir/src/main.cpp.obj	1b8cb17fc013818c
+452	520	7035546259794979	DoublyLinkedList.exe	fd1dd54d6a6a242a
+2	1436	7035550810788706	CMakeFiles/tests.dir/test/DoublyLinkedListTest.cpp.obj	a0b83182a2f0998a
+1436	4734	7035550843746040	tests.exe	94bd51817b6e88b4
